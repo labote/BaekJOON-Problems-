@@ -145,7 +145,7 @@
 		2CB7359522E18FE800D5A37F = {
 			isa = PBXGroup;
 			children = (
-				2CB735A022E18FE800D5A37F /* Test */,
+				2CB735A022E18FE800D5A37F /* CodingTest */,
 				2CB7359F22E18FE800D5A37F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -158,7 +158,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2CB735A022E18FE800D5A37F /* Test */ = {
+		2CB735A022E18FE800D5A37F /* CodingTest */ = {
 			isa = PBXGroup;
 			children = (
 				2CC115C02326614F00CF63DC /* Algorithm */,
@@ -166,7 +166,7 @@
 				2CF9BF6A23257C4400E8A674 /* KakaO */,
 				2CE6BA302334FA4500BBBE5A /* Test(공백제거).cpp */,
 			);
-			path = Test;
+			path = CodingTest;
 			sourceTree = "<group>";
 		};
 		2CC115C02326614F00CF63DC /* Algorithm */ = {
