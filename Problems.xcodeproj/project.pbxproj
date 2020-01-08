@@ -496,7 +496,7 @@
 				2CB735A422E18FE800D5A37F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		2CB735A522E18FE800D5A37F /* Build configuration list for PBXNativeTarget "Problems" */ = {
 			isa = XCConfigurationList;
@@ -505,7 +505,7 @@
 				2CB735A722E18FE800D5A37F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
