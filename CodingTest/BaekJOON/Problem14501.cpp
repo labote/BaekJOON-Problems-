@@ -15,19 +15,14 @@ using namespace std;
 int T[MAX];
 int P[MAX];
 int dp[MAX];
-int num,result;
+int num;
 
-void DP(int day){
-    if(day>num) return;
-    if(day+T[day]<=num+1){
-        dp[day+T[day]]+=P[day];
-        DP(day+T[day]);
-        result=max(result,dp[day+T[day]]);
-    }
-    if(day<num){
-        DP(day+1);
-        result=max(result,dp[day+1]);
-    }
+int DP(int day){
+    if(day>num) return 0;
+    if(dp[day]>0) return dp[day];
+    if(day+T[day]<=num+1) dp[day]=max(dp[day],DP(day+T[day])+P[day]);
+    if(day<=num) dp[day]=max(dp[day],DP(day+1));
+    return dp[day];
 }
 
 int main(){
@@ -37,7 +32,5 @@ int main(){
         cin >> T[i] >> P[i];
     }
     
-    DP(1);
-    
-    cout << result << endl;
+    cout << DP(1) << endl;
 }
