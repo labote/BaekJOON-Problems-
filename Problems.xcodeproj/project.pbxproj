@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C44EC3223C6026700DB3E5A /* Problem4358.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2CDFABD623B51EFD00D73217 /* Problem4358.cpp */; };
+		2C44EC3E23CFE5ED00DB3E5A /* Problem11399.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C44EC3B23CFDCCE00DB3E5A /* Problem11399.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +53,8 @@
 		2C33F9B123AFD537006283B0 /* Problem10159.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem10159.cpp; sourceTree = "<group>"; };
 		2C40FAAB231C006A00FF3061 /* Problem1149.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1149.cpp; sourceTree = "<group>"; };
 		2C40FAAD231C075D00FF3061 /* Problem11724.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11724.cpp; sourceTree = "<group>"; };
+		2C44EC3323C6182D00DB3E5A /* Problem14501.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem14501.cpp; sourceTree = "<group>"; };
+		2C44EC3B23CFDCCE00DB3E5A /* Problem11399.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11399.cpp; sourceTree = "<group>"; };
 		2C49BE0B2327977200C4C8B4 /* KMP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = KMP.cpp; sourceTree = "<group>"; };
 		2C49BE0D2327A41E00C4C8B4 /* Euclidean's Algorithm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Euclidean's Algorithm.cpp"; sourceTree = "<group>"; };
 		2C49BE0F2327B3BA00C4C8B4 /* Problem11444.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11444.cpp; sourceTree = "<group>"; };
@@ -290,6 +292,8 @@
 				2C33F9B123AFD537006283B0 /* Problem10159.cpp */,
 				2CDFABCB23B12AD200D73217 /* Problem2193.cpp */,
 				2CDFABD623B51EFD00D73217 /* Problem4358.cpp */,
+				2C44EC3323C6182D00DB3E5A /* Problem14501.cpp */,
+				2C44EC3B23CFDCCE00DB3E5A /* Problem11399.cpp */,
 			);
 			path = BaekJOON;
 			sourceTree = "<group>";
@@ -352,7 +356,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C44EC3223C6026700DB3E5A /* Problem4358.cpp in Sources */,
+				2C44EC3E23CFE5ED00DB3E5A /* Problem11399.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
