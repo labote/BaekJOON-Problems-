@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C44EC3F23CFE9EC00DB3E5A /* Problem14501.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C44EC3323C6182D00DB3E5A /* Problem14501.cpp */; };
+		2C9D99E223E7114700637BB4 /* Problem11055.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2C9D99DD23E6F7C600637BB4 /* Problem11055.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +30,7 @@
 		2C0BFE722312BD2C00E463A9 /* Problem5427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem5427.cpp; sourceTree = "<group>"; };
 		2C0BFE742312C98800E463A9 /* Problem9461.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem9461.cpp; sourceTree = "<group>"; };
 		2C0BFE7A2316609F00E463A9 /* Problem1309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1309.cpp; sourceTree = "<group>"; };
+		2C11B5E723E2EEF100F2F327 /* Problem9205.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem9205.cpp; sourceTree = "<group>"; };
 		2C16E449237D617100F48932 /* Problem1083.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1083.cpp; sourceTree = "<group>"; };
 		2C16E44B237EAB7000F48932 /* Problem11004.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11004.cpp; sourceTree = "<group>"; };
 		2C16E44D238258B000F48932 /* Problem11650.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11650.cpp; sourceTree = "<group>"; };
@@ -55,6 +56,14 @@
 		2C40FAAD231C075D00FF3061 /* Problem11724.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11724.cpp; sourceTree = "<group>"; };
 		2C44EC3323C6182D00DB3E5A /* Problem14501.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem14501.cpp; sourceTree = "<group>"; };
 		2C44EC3B23CFDCCE00DB3E5A /* Problem11399.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11399.cpp; sourceTree = "<group>"; };
+		2C44EC4023CFEDEF00DB3E5A /* Problem11047.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11047.cpp; sourceTree = "<group>"; };
+		2C44EC4223CFF2C900DB3E5A /* Problem1377.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1377.cpp; sourceTree = "<group>"; };
+		2C44EC4423D08B1E00DB3E5A /* Problem10814.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem10814.cpp; sourceTree = "<group>"; };
+		2C44EC4623D09F1F00DB3E5A /* Problem1015.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1015.cpp; sourceTree = "<group>"; };
+		2C44EC4A23D107AE00DB3E5A /* Problem14425.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem14425.cpp; sourceTree = "<group>"; };
+		2C44EC4E23D10EE200DB3E5A /* Problem1122.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1122.cpp; sourceTree = "<group>"; };
+		2C44EC5023D27B8100DB3E5A /* Problem9465.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem9465.cpp; sourceTree = "<group>"; };
+		2C44EC5423D2822900DB3E5A /* BinarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BinarySearch.cpp; sourceTree = "<group>"; };
 		2C49BE0B2327977200C4C8B4 /* KMP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = KMP.cpp; sourceTree = "<group>"; };
 		2C49BE0D2327A41E00C4C8B4 /* Euclidean's Algorithm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Euclidean's Algorithm.cpp"; sourceTree = "<group>"; };
 		2C49BE0F2327B3BA00C4C8B4 /* Problem11444.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11444.cpp; sourceTree = "<group>"; };
@@ -73,6 +82,7 @@
 		2C520A692340DB8D00C5FD62 /* Problem2668.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem2668.cpp; sourceTree = "<group>"; };
 		2C520A6B2340DC0A00C5FD62 /* Palindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Palindrome.cpp; sourceTree = "<group>"; };
 		2C520A6D234221EE00C5FD62 /* Problem1786.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1786.cpp; sourceTree = "<group>"; };
+		2C55D27223DA18CC006E273A /* Problem1065.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1065.cpp; sourceTree = "<group>"; };
 		2C60EAF722FEEF0500490711 /* Problem9625.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem9625.cpp; sourceTree = "<group>"; };
 		2C7A9A6C238F9DD2002BF186 /* Problem11652.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11652.cpp; sourceTree = "<group>"; };
 		2C7A9A6E2392F65F002BF186 /* MergeSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MergeSort.cpp; sourceTree = "<group>"; };
@@ -90,6 +100,9 @@
 		2C9045B022F6E17E00BE21CB /* Problem1937.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1937.cpp; sourceTree = "<group>"; };
 		2C951A8922FEBC4F00FFD9A5 /* Problem1003.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1003.cpp; sourceTree = "<group>"; };
 		2C951A8D22FEDEC500FFD9A5 /* Problem10942.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem10942.cpp; sourceTree = "<group>"; };
+		2C9D99D523E30E5600637BB4 /* Problem1699.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1699.cpp; sourceTree = "<group>"; };
+		2C9D99DB23E6F35200637BB4 /* Problem2167.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem2167.cpp; sourceTree = "<group>"; };
+		2C9D99DD23E6F7C600637BB4 /* Problem11055.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11055.cpp; sourceTree = "<group>"; };
 		2CA389E9232234E100DDCCB4 /* Kakao15997.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Kakao15997.cpp; sourceTree = "<group>"; };
 		2CB7359E22E18FE800D5A37F /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CB735A122E18FE800D5A37F /* BFS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BFS.cpp; sourceTree = "<group>"; };
@@ -108,12 +121,18 @@
 		2CD3D6BC237AC84600591E26 /* Problem1427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1427.cpp; sourceTree = "<group>"; };
 		2CD3D6BE237ADA0500591E26 /* Problem1026.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1026.cpp; sourceTree = "<group>"; };
 		2CD5B6112355F5230078870C /* Problem1389.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1389.cpp; sourceTree = "<group>"; };
+		2CDC955C23D72D7700B9B3B3 /* Problem11057.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11057.cpp; sourceTree = "<group>"; };
+		2CDC955E23D733EA00B9B3B3 /* Problem11403.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem11403.cpp; sourceTree = "<group>"; };
 		2CDFABCB23B12AD200D73217 /* Problem2193.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem2193.cpp; sourceTree = "<group>"; };
 		2CDFABD023B4EB3D00D73217 /* Sieve of eratosthenes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sieve of eratosthenes.cpp"; sourceTree = "<group>"; };
 		2CDFABD323B5190200D73217 /* Manacher.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Manacher.cpp; sourceTree = "<group>"; };
 		2CDFABD623B51EFD00D73217 /* Problem4358.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem4358.cpp; sourceTree = "<group>"; };
 		2CE6BA302334FA4500BBBE5A /* Test(공백제거).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Test(공백제거).cpp"; sourceTree = "<group>"; };
 		2CF107EC23268F1400BEBE45 /* Problem14444.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem14444.cpp; sourceTree = "<group>"; };
+		2CF2CB8323D5FE9B00A611C8 /* SelectionSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SelectionSort.cpp; sourceTree = "<group>"; };
+		2CF2CB8523D6103D00A611C8 /* InsertSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InsertSort.cpp; sourceTree = "<group>"; };
+		2CF2CB8A23D62DBB00A611C8 /* Problem3006.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem3006.cpp; sourceTree = "<group>"; };
+		2CF2CB8F23D70CD800A611C8 /* Problem1912.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem1912.cpp; sourceTree = "<group>"; };
 		2CF5EFFD2319385C00BC9F0F /* Problem6359.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem6359.cpp; sourceTree = "<group>"; };
 		2CF5F000231B9FFC00BC9F0F /* Problem13976.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem13976.cpp; sourceTree = "<group>"; };
 		2CF7335E234344E90014D32B /* Problem10769.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Problem10769.cpp; sourceTree = "<group>"; };
@@ -188,6 +207,9 @@
 				2C33F9A523ABB3F1006283B0 /* BubbleSort.cpp */,
 				2CDFABD023B4EB3D00D73217 /* Sieve of eratosthenes.cpp */,
 				2CDFABD323B5190200D73217 /* Manacher.cpp */,
+				2C44EC5423D2822900DB3E5A /* BinarySearch.cpp */,
+				2CF2CB8323D5FE9B00A611C8 /* SelectionSort.cpp */,
+				2CF2CB8523D6103D00A611C8 /* InsertSort.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -294,6 +316,22 @@
 				2CDFABD623B51EFD00D73217 /* Problem4358.cpp */,
 				2C44EC3323C6182D00DB3E5A /* Problem14501.cpp */,
 				2C44EC3B23CFDCCE00DB3E5A /* Problem11399.cpp */,
+				2C44EC4023CFEDEF00DB3E5A /* Problem11047.cpp */,
+				2C44EC4223CFF2C900DB3E5A /* Problem1377.cpp */,
+				2C44EC4423D08B1E00DB3E5A /* Problem10814.cpp */,
+				2C44EC4623D09F1F00DB3E5A /* Problem1015.cpp */,
+				2C44EC4A23D107AE00DB3E5A /* Problem14425.cpp */,
+				2C44EC4E23D10EE200DB3E5A /* Problem1122.cpp */,
+				2C44EC5023D27B8100DB3E5A /* Problem9465.cpp */,
+				2CF2CB8A23D62DBB00A611C8 /* Problem3006.cpp */,
+				2CF2CB8F23D70CD800A611C8 /* Problem1912.cpp */,
+				2CDC955C23D72D7700B9B3B3 /* Problem11057.cpp */,
+				2CDC955E23D733EA00B9B3B3 /* Problem11403.cpp */,
+				2C55D27223DA18CC006E273A /* Problem1065.cpp */,
+				2C11B5E723E2EEF100F2F327 /* Problem9205.cpp */,
+				2C9D99D523E30E5600637BB4 /* Problem1699.cpp */,
+				2C9D99DB23E6F35200637BB4 /* Problem2167.cpp */,
+				2C9D99DD23E6F7C600637BB4 /* Problem11055.cpp */,
 			);
 			path = BaekJOON;
 			sourceTree = "<group>";
@@ -356,7 +394,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C44EC3F23CFE9EC00DB3E5A /* Problem14501.cpp in Sources */,
+				2C9D99E223E7114700637BB4 /* Problem11055.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
